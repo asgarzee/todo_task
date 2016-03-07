@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+bookenv
+.idea
+db.sqlite3
+.DS_Store
